@@ -2,7 +2,7 @@
 
 ## Description
 
-The coding quiz application is a timed, multiple choice assessment that tests the user's knowledge on basic coding concepts. After the user clicks begin, a timer in the top, right corner begins and the first question should appear. If the question is answered correctly, then the next question will appear. If it's, answered incorrectly, then the timer will decrease by 15 seconds per wrong answer click. After the user finishes the quiz, they will be able to see their score and asked to submit their initials. The different scores can be viewed in the View Highscores link in the top left corner. The user cna take the quiz as many times as they like.
+The coding quiz application is a timed, multiple choice assessment that tests the user's knowledge on basic coding concepts. After the user clicks begin, a timer in the top, right corner begins and the first question should appear. If the question is answered correctly, then the next question will appear. If it's, answered incorrectly, then the timer will decrease by 10 seconds per wrong answer click. After the user finishes the quiz, they will be able to see their score and asked to submit their initials. The different scores can be viewed in the View Highscores link in the top left corner. The user cna take the quiz as many times as they like.
 
 ## Installation
 
@@ -14,7 +14,7 @@ The coding quiz application is a timed, multiple choice assessment that tests th
 
 1. The user should click the "Start Quiz" button on the homepage to start the assessment.
 
-2. The user should try to select the correct answer choice for each question. A 15 second penalty will be applied to the time remaining for incorrect selections.
+2. The user should try to select the correct answer choice for each question. A 10 second penalty will be applied to the time remaining for incorrect selections.
 
 3. After time runs out, or the quiz is completed, submit your initials. These can be viewed in the high scores tab, and you can play again.
 
