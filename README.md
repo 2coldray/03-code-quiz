@@ -6,7 +6,7 @@ The coding quiz application is a timed, multiple choice assessment that tests th
 
 ## Installation
 
-1. The user can go to this website to take the quiz:
+1. The user can go to this website to take the quiz: https://2coldray.github.io/03-code-quiz/ .
 
 2. Click the "Star Quiz" button to start the quiz and complete it.
 
